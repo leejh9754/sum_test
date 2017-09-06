@@ -3,7 +3,7 @@
 
 int main(void)
 {
-int n-=100;
+int n=100;
 printf("%d\n",sum(n));
 return 0;
 }
